@@ -1,0 +1,15 @@
+#brand h2{
+    font-family: 'Aldrich';
+    font-size: 40px;
+    color:black;
+
+}
+.brand-img img{
+    height:50px ;
+}
+.brand-img4 img{
+    height: 80px;
+}
+.brand-img3 img{
+    height: 59px;
+}

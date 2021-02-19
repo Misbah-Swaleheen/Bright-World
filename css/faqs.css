@@ -1,0 +1,39 @@
+#faqs{
+    padding: 5%;
+    background-color: rgba(0, 0, 0, .5);
+    color: #fff;
+    background-image: url(footer-bg.jpg);
+    background-attachment: fixed;
+    background-position: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.faq{
+    padding: 2% 5%;
+   
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, .2);
+    border: 1px solid rgba(0, 0, 0, .3);
+    border-radius: 5%;
+}
+#faqs h1{
+    padding: 5%;
+    font-family: 'Aldrich';
+    /* font-size: 70px; */
+}
+.ques{
+    border-bottom: 1px solid rgba(58,58,58,.3) ;
+}
+.ques,.ans{
+    padding: 1%;
+    font-family: 'Lato';
+    font-size: 20px;
+}
+.gap{
+    margin-right: 2%;
+}
+.ans{
+    padding: 2%;
+    display: none;
+  
+}

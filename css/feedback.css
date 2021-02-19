@@ -1,0 +1,61 @@
+#feedback{
+    background: url(contact2.jpg);
+    background-attachment: fixed;
+    background-position: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+#feedback .container{
+    padding: 5%;
+
+}
+.card{
+    box-shadow: 1px 1px 1px rgb(179, 175, 175) ;
+}
+#feedback label{
+    color: white;
+    font-weight: bold;
+
+}
+#feedback p{
+    color: black;
+    font-size: 16px;
+    font-family: 'Lato';
+
+}
+#feedback h1{
+color: white;
+
+font-family: 'Aldrich';
+font-size: 60px !important;
+padding: 2%;
+
+}
+/* #feedback .card{
+    height: 350px;
+} */
+#feedback .card-title{
+    color: black;
+    font-size: 30px !important;
+}
+
+#feedback .card-text{
+    display: -webkit-box; 
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 8;
+    overflow: hidden;
+    text-align: justify;
+}
+/* #feedback .row{
+    justify-content: center;
+} */
+#feedback .btn{
+    /* margin-top: 13px; */
+}
+#feedback .form-group{
+    background-color: transparent;
+}
+.fa-stars{
+
+}

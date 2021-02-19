@@ -1,0 +1,73 @@
+ 
+         #decorationlights{
+            background-color:rgba(0, 0, 0, 1);
+            font-size: 20px;
+         font-weight: bold;
+            
+        }
+        #decorationlights .card{
+             border: 1px solid rgb(190, 187, 187);
+             box-shadow: 5px 8px 10px rgb(190, 187, 187);
+             border-radius: 10px 10px 10px 10px ;
+             margin-bottom: 15px;
+             border: none;
+ 
+           }
+           
+           #decorationlights .overlay {
+             position: absolute;
+             top: 0;
+             bottom: 0;
+             left: 0;
+             right: 0;
+             
+             height: 100%;
+             width: 100%;
+             opacity: 0;
+             transition: .5s ease;
+             background-color:rgba(0, 0, 0,.7);
+             border-radius: 7px 7px 7px 7px ;
+             border: none;
+             
+             
+             }
+ 
+             #decorationlights .card :hover.overlay {
+         opacity: 1;
+         cursor: pointer;
+         font-family: "Lato",cursive;
+         }
+         #spotlight .card-img-top
+         {
+         border-radius: 10px 10px 0px 0px;
+         }
+ 
+         #decorationlights .text {
+         
+         position: absolute;
+         top: 50%;
+         left: 50%;
+         -webkit-transform: translate(-50%, -50%);
+         -ms-transform: translate(-50%, -50%);
+         transform: translate(-50%, -50%);
+         /* text-align: center; */
+         
+         }
+        
+         #decorationlights a{
+         text-align: center;
+         color: white;
+         text-decoration: none;
+        
+        
+         
+         }
+         /* #decorationlights a:hover{
+             color:red
+         } */
+        
+         #decorationlights h2{
+           color:white;
+           font-family: "Aldrich",sans-serif;
+         }
+      

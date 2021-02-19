@@ -1,0 +1,52 @@
+.contact-us-ctn{
+    background-image: url(contact-us-banner.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.opacity-div{
+    background-color: rgba(0,0,0,0.5);
+}
+
+.about-content p{
+    font-family: 'Lato';
+    font-size: 16px;
+    color: #000;
+    }
+.about-content-col1 h2{
+    font-family: 'Aldrich';
+
+    font-size: 25px !important;
+    color: #000;
+    }
+    .about-content-col h2{
+        font-family: 'Aldrich';
+    
+        font-size: 40px !important;
+        color: #000;
+        }
+     .about-content span{
+    font-family: 'Aldrich';
+    font-size: 15px;
+    color:#dfa667;
+
+    }  
+ #about .contact-us-heading{
+        color:whitesmoke;
+    font-family: 'Aldrich';
+font-size: 40px !important;
+
+    } 
+    .contact-us{
+        color:whitesmoke;
+        background-color: #dfa667;
+        box-shadow: 3px 3px 3px rgba(75,75,75,0.5);
+    }
+    .about-service-img1 img{
+        height: 80px;
+    } 
+    .about-service-img2 img{
+        height: 75px;
+    } 
+

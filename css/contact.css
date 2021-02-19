@@ -1,0 +1,48 @@
+#contact{
+    background: url(contact2.jpg);
+    /* width: 100vw; */
+    /* height: 100vh; */
+   
+    background-attachment: fixed;
+    background-position: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+#contact .container{
+    /* padding: 20px; */
+    padding: 5%;
+}
+
+#contact  .row{
+    justify-content: center;
+}
+.container .row .col-lg-6{
+
+    /* justify-content: center; */
+    color: White;
+    font-weight: bold;
+    
+
+}
+#none{
+display: none;
+}
+#contact h1{
+color: white;
+/* font-size: 70px; */
+font-family: 'Aldrich';
+}
+#contact p{
+font-family: 'Lato';
+font-size: 16px;
+}
+#contact .btn{
+margin-top:10px ;
+}
+#content h5{
+justify-content: flex-end;
+}
+#contact .form-group{
+    background-color: transparent;
+}

@@ -1,0 +1,44 @@
+.c{
+    width: 100%;
+}
+header{
+    background-image: url(kslider6.jpg);
+    background-attachment: fixed;
+    background-position: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0px 20px 10px rgba(0,0,0,.2) !important;
+}
+nav{
+    background-color: rgba(0, 0, 0, 0.5);
+    font-family: 'Ramabhadra';
+}
+    .navbar-nav .nav-item{
+        padding-left: 16px;
+    }
+    .navbar-nav .nav-item .nav-link{
+        color: white;
+    }
+    .carousel-caption {
+        position: absolute;
+        top: calc(100%/3);
+        height: 300px;
+        padding-top: 45px;
+        background-color: rgba(0, 0, 0, 0.5);
+        color: white;
+        font-weight: bold;
+        font-size: 70px;
+       
+    }
+    .carousel-caption h1{
+        font-size: 80px;
+        font-family: 'Niconne',sans-serif !important;
+    }
+    .carousel-caption p{
+        font-size: 24px;
+        color: white;
+        font-family: 'niconne',sans-serif ;
+    }
+    .navbar-nav{
+        margin-right: 5%;
+    }
